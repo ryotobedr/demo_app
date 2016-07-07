@@ -28,6 +28,8 @@ gem 'turbolinks', '1.1.1'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '1.0.2'
 
+gem 'rb-readline'
+
 group :doc do
   gem 'sdoc', '0.3.20', require: false
 end
